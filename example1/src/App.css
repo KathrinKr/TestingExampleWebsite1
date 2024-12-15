@@ -1,0 +1,62 @@
+/*all labels*/
+label {
+  font-weight: bold;
+}
+
+/*class for all links*/
+.link {
+  color: blue;
+  text-decoration: none;
+}
+
+/*wide picture*/
+.headerImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/*table styling*/
+/* row 1  */
+.backgroundRow1 {
+  background-color: rgb(137, 255, 255);
+  padding: 10px;
+  color: rgb(5, 145, 145);
+  font-size: 10pt;
+}
+
+/* row 2  */
+.backgroundRow2 {
+  background-color: rgb(158, 255, 158);
+  padding: 10px;
+  color: rgb(1, 137, 1);
+  font-size: 10pt;
+}
+
+/* row 3  */
+.backgroundRow3 {
+  background-color: rgb(255, 255, 166);
+  padding: 10px;
+  color: rgb(167, 153, 0);
+  font-size: 10pt;
+}
+
+/* hint for tables */
+.hint {
+  font-size: 15px;
+  color: #666;
+}
+
+/*input fields*/
+.inputField {
+  margin: 15px;
+}
+
+/* red required fields of input */
+.requiredField {
+  border: 2px solid red;
+}
+
+.quote {
+  font-style: italic;
+}
